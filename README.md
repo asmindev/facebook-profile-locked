@@ -1,8 +1,8 @@
 <h1 align="center">Welcome to FACEBOOK PROFILE LOCKED | PYTHON 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://twitter.com/iniasmin\_" target="_blank">
-    <img alt="Twitter: iniasmin\_" src="https://img.shields.io/twitter/follow/iniasmin\_.svg?style=social" />
+  <a href="https://twitter.com/iniasmin_" target="_blank">
+    <img alt="Twitter: iniasmin_" src="https://img.shields.io/twitter/follow/iniasmin_.svg?style=social" />
   </a>
 </p>
 
